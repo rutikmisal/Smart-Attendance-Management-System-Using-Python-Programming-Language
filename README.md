@@ -1,0 +1,2 @@
+# Smart-Attendance-Management-System-Using-Python-Programming-Language
+📸 Smart Attendance Management System Using Python  A Smart Attendance Management System that automates attendance tracking using Face Recognition Technology. The system uses the LBPH (Local Binary Pattern Histogram) algorithm for facial recognition and stores attendance data securely in a MySQL database, with reporting through Microsoft Excel.
